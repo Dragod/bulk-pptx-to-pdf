@@ -1,6 +1,6 @@
 @{
     Root = 'c:\gitea\pptxToPdf\pptxToPdf.ps1'
-    OutputPath = 'c:\gitea\pptxToPdf\out'
+    OutputPath = 'c:\gitea\pptxToPdf\standalone'
     Package = @{
         Enabled = $true
         Obfuscate = $false

@@ -128,7 +128,7 @@ function ShowAbout {
 
     [void] [System.Windows.Forms.MessageBox]::Show(
 
-        " pptxToPdf v1.0.0`n`n Author: Paniconi Fabio`n`n Email: reg@pfcode.net`n`nThis script is free software: you can redistribute it and/or modify`n it under the terms of the GNU General Public License as published by`n the Free Software Foundation, either version 3 of the License, or`n (at your option) any later version.`n`nThis program is distributed in the hope that it will be useful,`n but WITHOUT ANY WARRANTY; without even the implied warranty of`n MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the`n GNU General Public License for more details.`n`nYou should have received a copy of the GNU General Public License`n along with this program.  If not, see <http://www.gnu.org/licenses/>.",
+        " pptxToPdf v1.0.0`n`n Author: Paniconi Fabio`n`n Email: reg@pfcode.net`n`n Repo: https://github.com/Dragod/bulk-pptx-to-pdf `n`nThis script is free software: you can redistribute it and/or modify`n it under the terms of the GNU General Public License as published by`n the Free Software Foundation, either version 3 of the License, or`n (at your option) any later version.`n`nThis program is distributed in the hope that it will be useful,`n but WITHOUT ANY WARRANTY; without even the implied warranty of`n MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the`n GNU General Public License for more details.`n`nYou should have received a copy of the GNU General Public License`n along with this program.  If not, see <http://www.gnu.org/licenses/>.",
 
         "About pptxToPdf",
 

@@ -8,7 +8,7 @@ $about.Add_Click({ShowAbout})
 
 $exit.Add_Click({$pptxToPdf.Close()})
 
-$github.Add_Click({ Start-Process 'https://github.com/Dragod/wifi-qrcode' }.GetNewClosure())
+$github.Add_Click({ Start-Process 'https://github.com/Dragod/bulk-pptx-to-pdf' }.GetNewClosure())
 
 $selectFileBtn.Add_Click({ConvertToPdf $OpenPptxModal})
 
